@@ -1,5 +1,4 @@
 # SFDX  App
-Add new Comment
 
 ## Dev, Build and Test
 
